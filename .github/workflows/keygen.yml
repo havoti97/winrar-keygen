@@ -10,12 +10,12 @@ on:
 
       KEY_USERNAME:
         type: string
-        description: Input your username
+        description: Hoang Anh Vo
         required: true
         
       KEY_LICENSE_NAME:
         type: string
-        description: Input your license name
+        description: Single PC usage license
         default: 'Single PC usage license'
         required: true
 
